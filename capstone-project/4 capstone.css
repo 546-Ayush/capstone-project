@@ -1086,6 +1086,7 @@
     .part-5 .side-1 p {
         width: 100vw;
         text-align: center;
+        padding: 0px 10px;
     }
 
     .part-5 .side-2 img {
